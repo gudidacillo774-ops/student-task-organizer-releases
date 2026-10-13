@@ -1,6 +1,7 @@
+
 {
-  "version_code": 2,
-  "version_name": "1.1.0",
-  "release_notes": "Initial online update support.",
-  "apk_url": "https://github.com/YOUR_USERNAME/student-task-organizer-releases/releases/download/v1.1.0/student-task-organizer-v1.1.0.apk"
+  "version_code": 3,
+  "version_name": "1.2.0",
+  "release_notes": "Online update system testing and improvements.",
+  "apk_url": "https://github.com/gudidacillo774-ops/student-task-organizer-releases/releases/download/v1.2.0/student-task-organizer-v1.2.0.apk"
 }
