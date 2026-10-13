@@ -1,7 +1,7 @@
 
 {
-  "version_code": 10,
-  "version_name": "10.4.1",
-  "release_notes": "ADDED NEW FEATURES.",
-  "apk_url": "https://github.com/gudidacillo774-ops/student-task-organizer-releases/releases/download/v10.4.1/student-task-organizer-v10.4.1.apk"
+  "version_code": 11,
+  "version_name": "10.4.2",
+  "release_notes": "Updated Student Connect with private chat, group chat, and an improved login interface.",
+  "apk_url": "https://github.com/gudidacillo774-ops/student-task-organizer-releases/releases/download/v10.4.2/student-task-organizer-v10.4.2.apk"
 }
